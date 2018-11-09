@@ -1,0 +1,1 @@
+# openshift-namespace-rbac-chart
